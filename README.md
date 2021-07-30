@@ -17,3 +17,5 @@ gmsv_example_osx.dll	<- require( 'example' ) serverside on osx
 
 gmcl_nutsack_win32.dll	<- require( 'nutsack' ) clientside on windows
 gmcl_example_osx.dll	<- require( 'example' ) clientside on osx
+
+Тестирование форка
